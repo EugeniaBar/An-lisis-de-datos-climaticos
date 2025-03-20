@@ -1,6 +1,7 @@
 # Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
 
-### Objetivo: Este proyecto tiene como objetivo analizar la relación entre la temperatura global y las concentraciones de metano y dióxido de carbono, predecir las temperaturas futuras y detectar anomalías climáticas.
+### Objetivo del proyecto:
+Este proyecto tiene como objetivo analizar la relación entre la temperatura global y las concentraciones de metano y dióxido de carbono, predecir las temperaturas futuras y detectar anomalías climáticas.
 
 - fuente de los datos:
   https://climate.nasa.gov/
