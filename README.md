@@ -1,21 +1,19 @@
 # Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
 
 ### Objetivo: Este proyecto tiene como objetivo analizar la relación entre la temperatura global y las concentraciones de metano y dióxido de carbono, predecir las temperaturas futuras y detectar anomalías climáticas.
-fuente de los datos: https://climate.nasa.gov/
 
-- Metodología:
-Análisis Exploratorio de Datos: Se realizó un análisis inicial de los datos para entender su estructura y características.
+- fuente de los datos:
+  https://climate.nasa.gov/
 
-Análisis de Correlación: Se calculó la correlación entre la temperatura global y las concentraciones de metano y dióxido de carbono.
+### Resumen del proyecto
 
-Predicción de Temperaturas Futuras: Se desarrolló un modelo predictivo utilizando ARIMA para estimar las temperaturas futuras.
+El cambio climático es uno de los retos más apremiantes del siglo XXI, impulsado por el incremento de los gases de efecto invernadero (GEI) y sus impactos en el clima global. Este proyecto tiene como objetivo analizar datos históricos sobre Temperatura Global, Metano (CH₄) y Dioxido de Carbono (CO₂), extraídos de la plataforma NASA Climate, para estudiar su comportamiento en el tiempo y las posibles relaciones entre ellos.
+A través del análisis de series temporales, se busca:
 
-Análisis de Anomalías Climáticas: Se identificaron y analizaron eventos climáticos anómalos.
+1. Identificar patrones y tendencias a lo largo de los años.
+2. Detectar anomalías significativas.
+3. Explorar las correlaciones entre la temperatura global y las concentraciones de CH₄ y CO₂.
+4. Crear y mejorar modelos de aprendizaje automático para predecir la temperatura global a partir de las variables de los gases CO₂ y metano.
+5. Estos hallazgos no solo permitirán comprender mejor las dinámicas de estos factores, sino también generar evidencia que contribuya a las investigaciones científicas sobre el cambio climático.
 
-- Resultados:
-Se encontró una correlación significativa entre la temperatura global y las concentraciones de gases de efecto invernadero.
-El modelo predictivo mostró una alta precisión en la estimación de temperaturas futuras.
-
-Se detectaron varias anomalías climáticas, cuya posible causa se discutió en el informe.
-
-Conclusiones: Los resultados del proyecto proporcionan una comprensión más profunda de la relación entre los gases de efecto invernadero y el cambio climático, y destacan la importancia de continuar monitoreando y analizando estos dato
+![image](https://github.com/user-attachments/assets/9cba2818-f5d3-4597-a70b-f694a8b6a41f)
