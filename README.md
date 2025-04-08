@@ -1,20 +1,46 @@
 # Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
 
-### Objetivo del proyecto:
-Este proyecto tiene como objetivo analizar la relación entre la temperatura global y las concentraciones de metano y dióxido de carbono, predecir las temperaturas futuras y detectar anomalías climáticas.
+### 🎯 Objetivo del proyecto
 
-- fuente de los datos:
-  https://climate.nasa.gov/
+Este proyecto analiza la relación entre la temperatura global y las concentraciones de metano (CH₄) y dióxido de carbono (CO₂), con el fin de:
 
-### Resumen del proyecto
+- Estudiar su evolución temporal a través de series de tiempo.
+- Predecir futuras temperaturas globales.
+- Detectar anomalías o patrones estacionales.
+- Explorar correlaciones entre los gases y la temperatura global.
 
-El cambio climático es uno de los retos más apremiantes del siglo XXI, impulsado por el incremento de los gases de efecto invernadero (GEI) y sus impactos en el clima global. Este proyecto tiene como objetivo analizar datos históricos sobre Temperatura Global, Metano (CH₄) y Dioxido de Carbono (CO₂), extraídos de la plataforma NASA Climate, para estudiar su comportamiento en el tiempo y las posibles relaciones entre ellos.
-A través del análisis de series temporales, se busca:
+📊 Fuente de los datos:  
+https://climate.nasa.gov/
 
-1. Identificar patrones y tendencias a lo largo de los años.
-2. Detectar anomalías significativas.
-3. Explorar las correlaciones entre la temperatura global y las concentraciones de CH₄ y CO₂.
-4. Crear y mejorar modelos de aprendizaje automático para predecir la temperatura global a partir de las variables de los gases CO₂ y metano.
-5. Estos hallazgos no solo permitirán comprender mejor las dinámicas de estos factores, sino también generar evidencia que contribuya a las investigaciones científicas sobre el cambio climático.
+---
+
+### 🧠 Resumen del proyecto
+
+El cambio climático es uno de los retos más urgentes del siglo XXI, impulsado en gran parte por el aumento de los gases de efecto invernadero (GEI). En este análisis, se utilizaron tres conjuntos de datos públicos de la NASA sobre:
+
+- Temperatura global (datos anuales).
+- Dióxido de carbono (CO₂, datos mensuales).
+- Metano (CH₄, datos mensuales).
+
+A través del análisis de series temporales, se estudiaron tendencias, estacionalidades y la variabilidad mensual y anual de estos gases.
+
+Se entrenó un modelo de predicción **Random Forest** para estimar la temperatura global, logrando un **R² = 0.9852**, lo que indica un excelente rendimiento. La validación cruzada mostró un modelo estable y confiable, con baja variabilidad en su desempeño.
+
+#### 🔍 Principales hallazgos:
+
+- **Crecimiento sostenido** de CO₂ y CH₄ en las últimas décadas.
+- **Correlación positiva** entre estos gases y la temperatura global.
+- El CO₂ muestra un crecimiento constante; el CH₄ es más **volátil y estacional**.
+- Se visualizan patrones estacionales claros en ambas series de gases.
+  
+Este proyecto ofrece evidencia de la estrecha relación entre las emisiones de gases y el calentamiento global, destacando la importancia de seguir monitoreando estas variables para entender y mitigar el cambio climático.
+
+---
+
+### ⚙️ Tecnologías utilizadas
+
+- Python
+- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Jupyter Notebook
 
 ![image](https://github.com/user-attachments/assets/9cba2818-f5d3-4597-a70b-f694a8b6a41f)
