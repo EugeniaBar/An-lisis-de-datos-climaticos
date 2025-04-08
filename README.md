@@ -1,5 +1,6 @@
 # Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
 
+![3d5f13a1-3e17-4f51-ae65-6b35f708e035](https://github.com/user-attachments/assets/0388ac5f-cb74-4093-acca-482d16086c6f)
 
 
 ### Informe Completo del projecto: 
