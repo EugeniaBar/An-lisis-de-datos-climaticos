@@ -1,5 +1,9 @@
 # Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
 
+
+
+## Informe Completo del projecto: https://github.com/EugeniaBar/An-lisis-de-datos-climaticos/blob/main/An%C3%A1lisis%20de%20Series%20Temporales%20de%20datos%20climaticos.pdf
+
 ### 🎯 Objetivo del proyecto
 
 Este proyecto analiza la relación entre la temperatura global y las concentraciones de metano (CH₄) y dióxido de carbono (CO₂), con el fin de:
