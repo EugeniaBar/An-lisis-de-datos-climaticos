@@ -46,9 +46,11 @@ Este proyecto ofrece evidencia de la estrecha relación entre las emisiones de g
 - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Jupyter Notebook
 
+--- 
+
 "Este proyecto fue desarrollado con un fin estrictamente educativo, buscando aprender y aplicar técnicas de análisis de datos a información climática real. Se utilizaron datos de concentraciones de metano y dióxido de carbono, así como registros de temperatura global, para explorar las relaciones entre estos factores y el fenómeno del calentamiento global. Dado el carácter educativo del proyecto, se reconoce que los análisis y conclusiones presentados podrían contener errores o interpretaciones limitadas. El objetivo principal fue practicar y mejorar mis habilidades en el manejo y análisis de datos, utilizando un tema de relevancia científica y social."
 
-
+--- 
 
 ![image](https://github.com/user-attachments/assets/9cba2818-f5d3-4597-a70b-f694a8b6a41f)
 
