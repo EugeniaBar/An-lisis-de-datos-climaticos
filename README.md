@@ -1,4 +1,4 @@
-# Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero
+# Análisis de Series Temporales de Datos Climáticos: Temperatura Global y Gases de Efecto Invernadero 🌱
 
 ### Informe Completo del projecto: 
 https://github.com/EugeniaBar/An-lisis-de-datos-climaticos/blob/main/An%C3%A1lisis%20de%20Series%20Temporales%20de%20datos%20climaticos.pdf
@@ -8,7 +8,6 @@ https://github.com/EugeniaBar/An-lisis-de-datos-climaticos/blob/main/An%C3%A1lis
 Este proyecto analiza la relación entre la temperatura global y las concentraciones de metano (CH₄) y dióxido de carbono (CO₂), con el fin de:
 
 - Estudiar su evolución temporal a través de series de tiempo.
-- Predecir futuras temperaturas globales.
 - Detectar anomalías o patrones estacionales.
 - Explorar correlaciones entre los gases y la temperatura global.
 
@@ -27,9 +26,7 @@ El cambio climático es uno de los retos más urgentes del siglo XXI, impulsado 
 
 A través del análisis de series temporales, se estudiaron tendencias, estacionalidades y la variabilidad mensual y anual de estos gases.
 
-Se entrenó un modelo de predicción **Random Forest** para estimar la temperatura global, logrando un **R² = 0.9852**, lo que indica un excelente rendimiento. La validación cruzada mostró un modelo estable y confiable, con baja variabilidad en su desempeño.
-
-#### 🔍 Principales hallazgos:
+#### 🔍 🌱 Principales hallazgos:
 
 - **Crecimiento sostenido** de CO₂ y CH₄ en las últimas décadas.
 - **Correlación positiva** entre estos gases y la temperatura global.
